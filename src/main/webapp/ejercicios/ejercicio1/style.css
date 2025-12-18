@@ -14,14 +14,26 @@ body
 	color: #0c08f1;
 	line-height: 1.6;
 	justify-content: center;
-    align-items: center;
-	text-align: center;
+}
+
+.contenido
+{
+	background-color: #c0c0c0;
+	margin: 0 auto;
+	width: 50%;
+}
+
+.contenido span
+{
+	color: green;
 }
 
 .contenido h1
 {
-	background-color: #c0c0c0;
 	text-align: center;
-	margin: 0 auto;
-	width: 50%;
+}
+
+.contenido h3
+{
+	text-align: right;
 }
